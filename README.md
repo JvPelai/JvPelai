@@ -1,7 +1,10 @@
 ### Hi there 👋
 My name is João Victor Ahmad, and I'm a Brazilian Computer Engineering Student who not too long ago became obsessed with programming. I try to learn as much as I can everyday and I'm always striving to reach the next level through every new challenge.
+
 -Most of the repositories on my profile,especially the older ones, are here to keep track of my learning path and for the purpose of self-evaluation so most don't have elaborate documentation.
+
 -I'm currently learning Web Development and I'm looking for oportunities to earn experience with real world projects.
+
 -Also I love Video-games,animes,science fiction,martial-arts and Rock'n Roll \,,/
 
 ### 📢 You can reach me on :
