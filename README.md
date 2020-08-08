@@ -5,7 +5,7 @@ My name is João Victor Ahmad, and I'm a Brazilian Computer Engineering Student 
 
 -I'm currently learning Web Development and I'm looking for oportunities to earn experience with real world projects.
 
--Also I love Video-games,animes,science fiction,martial-arts and Rock'n Roll  \\,,/
+-Also I love Video-games :video_game:,animes :tv:,science fiction :alien: ,martial-arts :muscle: and Rock'n Roll  :metal:
 
 ### 📢 You can reach me on :
 <p align="center">
