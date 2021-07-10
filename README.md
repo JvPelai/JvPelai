@@ -1,12 +1,9 @@
 ### Hi there 👋
-My name is João Victor Ahmad, and I'm a Brazilian Computer Engineering Student who not too long ago became obsessed with programming. I try to learn as much as I can everyday and I'm always striving to reach the next level through every new challenge.
-
--Most of the repositories on my profile,especially the older ones, are here to keep track of my learning path and for the purpose of self-evaluation so most don't have elaborate documentation.
-
--I'm currently learning Web Development and I'm looking for oportunities to earn experience with real world projects.
+My name is João Victor Ahmad, and I'm a Brazilian Software Developer, eager to overcome bigger challenges, learn new technologies and frameworks, and build next generation solutions, currently working as a Web Developer with Node.js and React + Typescript.
 
 ### 📢 You can reach me on :
-<div align="center">
+<div align="start">
+  <br>
   <a href="https://twitter.com/JvPelai">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   </a>  
